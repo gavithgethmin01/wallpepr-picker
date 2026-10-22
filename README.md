@@ -1,5 +1,3 @@
-මේක ඔයාගේ updated version එකට හොඳ README එකක්:Markdown# LiveWall
-
 A lightweight live wallpaper system for **Hyprland** using `mpvpaper`.
 
 It automatically pauses the wallpaper when a window is open (to save CPU/GPU) and resumes when the desktop is empty. Includes a simple Rofi menu to switch wallpapers on the fly.
